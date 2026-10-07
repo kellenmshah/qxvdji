@@ -3,16 +3,17 @@
 这里汇总仓库内已经发布的内容，可按分类逐层浏览。
 
 <!-- gitflow:articles:start -->
-共收录 **15** 篇内容，按 **1** 个分类整理。
+共收录 **16** 篇内容，按 **1** 个分类整理。
 
 ## 分类导航
 
 | 分类 | 文章数 | 索引 |
 | --- | ---: | --- |
-| 加拿大pc28预测 | 15 | [查看分类文章](category-%E5%8A%A0%E6%8B%BF%E5%A4%A7pc28%E9%A2%84%E6%B5%8B.md) |
+| 加拿大pc28预测 | 16 | [查看分类文章](category-%E5%8A%A0%E6%8B%BF%E5%A4%A7pc28%E9%A2%84%E6%B5%8B.md) |
 
 ## 最近发布
 
+- [2026年10月趋势数据预测:今日竞彩足球英超推荐-大西洋财经](https://github.com/kellenmshah/qxvdji/blob/main/2026%E5%B9%B410%E6%9C%88%E8%B6%8B%E5%8A%BF%E6%95%B0%E6%8D%AE%E9%A2%84%E6%B5%8B-%E4%BB%8A%E6%97%A5%E7%AB%9E%E5%BD%A9%E8%B6%B3%E7%90%83%E8%8B%B1%E8%B6%85%E6%8E%A8%E8%8D%90-%E5%A4%A7%E8%A5%BF%E6%B4%8B%E8%B4%A2%E7%BB%8F.md) · 加拿大pc28预测 <!-- gitflow:article:5130fe177dcca99a8bb687454c21dd134a075bbb626ac101612f3083ab188bba -->
 - [2026年10月独家深度预测:今日英甲足球推荐-智迅财经](https://github.com/kellenmshah/qxvdji/blob/main/2026%E5%B9%B410%E6%9C%88%E7%8B%AC%E5%AE%B6%E6%B7%B1%E5%BA%A6%E9%A2%84%E6%B5%8B-%E4%BB%8A%E6%97%A5%E8%8B%B1%E7%94%B2%E8%B6%B3%E7%90%83%E6%8E%A8%E8%8D%90-%E6%99%BA%E8%BF%85%E8%B4%A2%E7%BB%8F.md) · 加拿大pc28预测 <!-- gitflow:article:38f04675a85a6847b36f64b48c2317916a1fb9c3ca761e9e4a9231967d75e1fd -->
 - [2026年10月首席数据预测:足球推荐今日预测网-紫薇财经](https://github.com/kellenmshah/qxvdji/blob/main/2026%E5%B9%B410%E6%9C%88%E9%A6%96%E5%B8%AD%E6%95%B0%E6%8D%AE%E9%A2%84%E6%B5%8B-%E8%B6%B3%E7%90%83%E6%8E%A8%E8%8D%90%E4%BB%8A%E6%97%A5%E9%A2%84%E6%B5%8B%E7%BD%91-%E7%B4%AB%E8%96%87%E8%B4%A2%E7%BB%8F.md) · 加拿大pc28预测 <!-- gitflow:article:ebb20e28283faaf35bfb6d19c1fe1da5c0b038fdaa91d31150a85da089914b35 -->
 - [2026年10月智能专家预测:足球预测欧协今日推荐-域外财经](https://github.com/kellenmshah/qxvdji/blob/main/2026%E5%B9%B410%E6%9C%88%E6%99%BA%E8%83%BD%E4%B8%93%E5%AE%B6%E9%A2%84%E6%B5%8B-%E8%B6%B3%E7%90%83%E9%A2%84%E6%B5%8B%E6%AC%A7%E5%8D%8F%E4%BB%8A%E6%97%A5%E6%8E%A8%E8%8D%90-%E5%9F%9F%E5%A4%96%E8%B4%A2%E7%BB%8F.md) · 加拿大pc28预测 <!-- gitflow:article:921aa0a6b6f01c55e6997fb432d625186882f552f2c649142a934c472b98c6e6 -->
@@ -22,5 +23,4 @@
 - [2027年10月深度预测:今日竞彩足球推荐预测-万代财经](https://github.com/kellenmshah/qxvdji/blob/main/2027%E5%B9%B410%E6%9C%88%E6%B7%B1%E5%BA%A6%E9%A2%84%E6%B5%8B-%E4%BB%8A%E6%97%A5%E7%AB%9E%E5%BD%A9%E8%B6%B3%E7%90%83%E6%8E%A8%E8%8D%90%E9%A2%84%E6%B5%8B-%E4%B8%87%E4%BB%A3%E8%B4%A2%E7%BB%8F.md) · 加拿大pc28预测 <!-- gitflow:article:314b97e7f60ab334b21d30ecaa966873315087a93358b1485056cff1f6802773 -->
 - [2026年10月智能智库预测:今日足球预测推荐任九-信盛财经](https://github.com/kellenmshah/qxvdji/blob/main/2026%E5%B9%B410%E6%9C%88%E6%99%BA%E8%83%BD%E6%99%BA%E5%BA%93%E9%A2%84%E6%B5%8B-%E4%BB%8A%E6%97%A5%E8%B6%B3%E7%90%83%E9%A2%84%E6%B5%8B%E6%8E%A8%E8%8D%90%E4%BB%BB%E4%B9%9D-%E4%BF%A1%E7%9B%9B%E8%B4%A2%E7%BB%8F.md) · 加拿大pc28预测 <!-- gitflow:article:9edd536598006b7a62779088309388b79de9f876163b6b351c85d947445113ed -->
 - [2027年10月明日走势预测:伟德足球ios下载-财山财经](https://github.com/kellenmshah/qxvdji/blob/main/2027%E5%B9%B410%E6%9C%88%E6%98%8E%E6%97%A5%E8%B5%B0%E5%8A%BF%E9%A2%84%E6%B5%8B-%E4%BC%9F%E5%BE%B7%E8%B6%B3%E7%90%83ios%E4%B8%8B%E8%BD%BD-%E8%B4%A2%E5%B1%B1%E8%B4%A2%E7%BB%8F.md) · 加拿大pc28预测 <!-- gitflow:article:3eaf16bc61cfc77ad6a78e3c164779113fe7a22cb80def9268360f0efff1def3 -->
-- [2026年10月首席专家预测:今日足球预测推荐意甲-光盛财经](https://github.com/kellenmshah/qxvdji/blob/main/2026%E5%B9%B410%E6%9C%88%E9%A6%96%E5%B8%AD%E4%B8%93%E5%AE%B6%E9%A2%84%E6%B5%8B-%E4%BB%8A%E6%97%A5%E8%B6%B3%E7%90%83%E9%A2%84%E6%B5%8B%E6%8E%A8%E8%8D%90%E6%84%8F%E7%94%B2-%E5%85%89%E7%9B%9B%E8%B4%A2%E7%BB%8F.md) · 加拿大pc28预测 <!-- gitflow:article:856a7fad9835c3736895b89a3291d1f0c8f052b300b4bc31edab5732c386be06 -->
 <!-- gitflow:articles:end -->
