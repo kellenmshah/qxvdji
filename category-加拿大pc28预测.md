@@ -2,13 +2,14 @@
 
 [← 返回 qxvdji 内容导航](README.md)
 
-本页汇总仓库内“加拿大pc28预测”主题文章，按关键词维度整理，共 **35** 篇。
+本页汇总仓库内“加拿大pc28预测”主题文章，按关键词维度整理，共 **36** 篇。
 
 <!-- gitflow:articles:start -->
-## 预测模型（10篇）
+## 预测模型（11篇）
 
 - [2026年10月智能专家预测:足球预测欧协今日推荐-域外财经](https://github.com/kellenmshah/qxvdji/blob/main/2026%E5%B9%B410%E6%9C%88%E6%99%BA%E8%83%BD%E4%B8%93%E5%AE%B6%E9%A2%84%E6%B5%8B-%E8%B6%B3%E7%90%83%E9%A2%84%E6%B5%8B%E6%AC%A7%E5%8D%8F%E4%BB%8A%E6%97%A5%E6%8E%A8%E8%8D%90-%E5%9F%9F%E5%A4%96%E8%B4%A2%E7%BB%8F.md) — 皇冠足球80比分主题解读 <!-- gitflow:article:921aa0a6b6f01c55e6997fb432d625186882f552f2c649142a934c472b98c6e6 -->
 - [2026年10月独家深度预测:今日英甲足球推荐-智迅财经](https://github.com/kellenmshah/qxvdji/blob/main/2026%E5%B9%B410%E6%9C%88%E7%8B%AC%E5%AE%B6%E6%B7%B1%E5%BA%A6%E9%A2%84%E6%B5%8B-%E4%BB%8A%E6%97%A5%E8%8B%B1%E7%94%B2%E8%B6%B3%E7%90%83%E6%8E%A8%E8%8D%90-%E6%99%BA%E8%BF%85%E8%B4%A2%E7%BB%8F.md) — 皇冠90足球比分直播主题解读 <!-- gitflow:article:38f04675a85a6847b36f64b48c2317916a1fb9c3ca761e9e4a9231967d75e1fd -->
+- [2026年10月综合机构预测:今日唯彩足球推荐预测-珠江财经](https://github.com/kellenmshah/qxvdji/blob/main/2026%E5%B9%B410%E6%9C%88%E7%BB%BC%E5%90%88%E6%9C%BA%E6%9E%84%E9%A2%84%E6%B5%8B-%E4%BB%8A%E6%97%A5%E5%94%AF%E5%BD%A9%E8%B6%B3%E7%90%83%E6%8E%A8%E8%8D%90%E9%A2%84%E6%B5%8B-%E7%8F%A0%E6%B1%9F%E8%B4%A2%E7%BB%8F.md) — 官网主题解读 <!-- gitflow:article:208992a68bc6e7a8c7d271ef8373f20c6eb53e0876a52bd3c62d0c4817a231c0 -->
 - [2026年10月超算精准预测:欧联足球推荐预测-汉唐财经](https://github.com/kellenmshah/qxvdji/blob/main/2026%E5%B9%B410%E6%9C%88%E8%B6%85%E7%AE%97%E7%B2%BE%E5%87%86%E9%A2%84%E6%B5%8B-%E6%AC%A7%E8%81%94%E8%B6%B3%E7%90%83%E6%8E%A8%E8%8D%90%E9%A2%84%E6%B5%8B-%E6%B1%89%E5%94%90%E8%B4%A2%E7%BB%8F.md) — 皇冠足球投注2020主题解读 <!-- gitflow:article:aa77a0846e7a87012350628d936454c51f3973b20b510e222ccc76286f5f3a2c -->
 - [2026年10月逆天预测:今日推荐预测竞彩足球-金流财经](https://github.com/kellenmshah/qxvdji/blob/main/2026%E5%B9%B410%E6%9C%88%E9%80%86%E5%A4%A9%E9%A2%84%E6%B5%8B-%E4%BB%8A%E6%97%A5%E6%8E%A8%E8%8D%90%E9%A2%84%E6%B5%8B%E7%AB%9E%E5%BD%A9%E8%B6%B3%E7%90%83-%E9%87%91%E6%B5%81%E8%B4%A2%E7%BB%8F.md) — 皇冠足球360下载主题解读 <!-- gitflow:article:f1b9b24e325b2f4b35532d29263d7a47fec3de354a166e1b9d99d34f94acd2e2 -->
 - [2026年10月高胜率神预测:英超足球推荐今日预测-数极财经](https://github.com/kellenmshah/qxvdji/blob/main/2026%E5%B9%B410%E6%9C%88%E9%AB%98%E8%83%9C%E7%8E%87%E7%A5%9E%E9%A2%84%E6%B5%8B-%E8%8B%B1%E8%B6%85%E8%B6%B3%E7%90%83%E6%8E%A8%E8%8D%90%E4%BB%8A%E6%97%A5%E9%A2%84%E6%B5%8B-%E6%95%B0%E6%9E%81%E8%B4%A2%E7%BB%8F.md) — 皇冠比分\(99814\)主题解读 <!-- gitflow:article:4081fc6d7ac133876e8dcc97aae6c2d8a8ab48bc45a544f43f0fcb50f5ce21c1 -->
